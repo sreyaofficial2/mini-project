@@ -1,5 +1,4 @@
-Sreya P,
-Artificial Intelligence and Data Science
+Hello, I'm Sreya!
 
 I am an undergraduate student specializing in Artificial Intelligence and Data Science, with a strong interest in developing intelligent systems and data-driven solutions.  
 
